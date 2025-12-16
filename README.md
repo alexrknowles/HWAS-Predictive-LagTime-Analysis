@@ -1,6 +1,6 @@
 # HWAS-Predictive-LagTime-Analysis
 Python time-series validation of a legacy meteorological forecasting model (H-WAS), utilizing complex triple-filtered conditional logic to precisely quantify predictive lead time (lag time) for high-wind events.
-💨 H-WAS Predictive Model Re-Validation and Lag Time Analysis
+H-WAS Predictive Model Re-Validation and Lag Time Analysis
 Project Overview
 This project involves the rigorous re-validation of the High Wind Alert System (H-WAS) Rule of Thumb, a specific set of meteorological conditions developed in 1993 to predict severe downslope wind events. The goal of this analysis is to use modern Python data science tools to precisely quantify the predictive lead time (lag time) and success rate of the H-WAS rule when all necessary meteorological criteria are met simultaneously.
 
