@@ -12,7 +12,7 @@ The analysis is structured around a Triple-Filtered Trigger event, requiring all
 | Condition | Threshold | Role |
 | :--- | :--- | :--- |
 | **Instability** ($\Delta T$) | $\mathbf{\geq 11^\circ\text{F}}$ (Lower $T$ - Rampart $T$) | The atmosphere is unstable (the "door is open"). |
-| **Force Direction** | Rampart Direction $\mathbf{247.5^\circ}$ to $\mathbf{292.5^\circ}$ (West Wind) | The flow is aligned for mountain wave descent. |
+| **Force Direction** | Rampart Direction $\mathbf{230.0^\circ}$ to $\mathbf{310.0^\circ}$ (West Wind) | The flow is aligned for mountain wave descent. |
 | **Penetration Force** | Rampart Speed $\mathbf{\geq 35 \text{ KT}}$ | The force required to push the wind through the boundary layer is present. |
 
 ### Lag Time Measurement
